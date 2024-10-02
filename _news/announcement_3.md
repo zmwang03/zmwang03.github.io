@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A paper has been accepted to EMNLP2024 🔥 🔥
+A paper (CTD framework) has been accepted to EMNLP2024 🔥 🔥
