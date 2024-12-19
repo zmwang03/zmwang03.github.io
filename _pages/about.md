@@ -15,8 +15,8 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-Zhimeng (知萌) is currently an undergrad at Soochow University (expected graduation in 2025), advised by [Assoc. Prof. Juntao Li](https://lijuntaopku.github.io/) and [Prof. Min Zhang](https://scholar.google.com/citations?user=CncXH-YAAAAJ&hl=zh-CN)(ACL Fellow).
+Zhimeng (知萌) is currently forth-year undergrad at Soochow University, advised by [Assoc. Prof. Juntao Li](https://lijuntaopku.github.io/) and [Prof. Min Zhang](https://scholar.google.com/citations?user=CncXH-YAAAAJ&hl=zh-CN)(ACL Fellow).
 
-His research focuses on the intersection of **MLSys** and **NLP**, including **LLM reasoning** (Inference-time Scaling), **RL for LLM** and **Long Context LLM**.
+His research focuses on the intersection of **MLSys** and **NLP**, including **Reasoning(Inference-time Scaling)**, **LLM + RL** and **Long Context LLM**.
 
 He is enthusiastic about researching NLP and MLsys and really enjoys reading papers, coding, writing, and working with math.
