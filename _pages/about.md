@@ -29,3 +29,4 @@ In 2025, he plans to focus on the following topics:
 	3.	Advancing RL for LLMs: He aims to address broader challenges beyond alignment. Current RLHF is not true reinforcement learning; methods like Chain-of-Thought, PRM, or Multi-Agent Workflows cannot fully resolve this issue. RLHF more closely resembles contextual bandits or inverse reinforcement learning (IRL). His goal is to work on developing genuine reinforcement learning for LLMs.
 
 He welcomes collaboration to explore these areas!
+
