@@ -20,11 +20,10 @@ timezone: Asia/Shanghai
 
 title: Zhimeng Wang # the main title
 
-tagline: Notes on engineering, AI, and life
+tagline: Notes on language model architectures.
 
 description: >-
-  Personal blog by zmwang03, sharing notes on software engineering,
-  AI systems, tooling, and things worth writing down.
+  Personal blog by Zhimeng Wang, sharing notes on MLSys\&NLP.
   
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://zmwang03.github.io"
