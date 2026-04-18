@@ -16,6 +16,6 @@ I plan to write mainly about:
 
 If you are interested in these topics as well, feel free to reach out via [GitHub](https://github.com/zmwang03) or email.
 
-![avatar](/assets/img/avatar.svg){: w="220" h="220" }
+![avatar](/assets/img/avatar.png){: w="220" h="220" }
 
 This page can be expanded later with your own background, work experience, projects, interests, or contact details.
