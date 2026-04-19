@@ -9,11 +9,11 @@
 
 - type: wechat
   icon: "fab fa-weixin"
-  url: "/assets/img/wechat-qr-placeholder.svg"
+  url: "/assets/img/wechat-qr.png"
 
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true
+# - type: rss
+#   icon: "fas fa-rss"
+#   noblank: true
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: linkedin
@@ -22,6 +22,7 @@
 #
 - type: twitter
   icon: "fab fa-twitter"
+  url: "https://x.com/andrewwang145"
 #
 # - type: mastodon
 #   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
