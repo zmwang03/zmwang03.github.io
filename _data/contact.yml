@@ -7,6 +7,10 @@
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
+- type: wechat
+  icon: "fab fa-weixin"
+  url: "/assets/img/wechat-qr-placeholder.svg"
+
 - type: rss
   icon: "fas fa-rss"
   noblank: true
