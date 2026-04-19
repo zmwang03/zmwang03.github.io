@@ -16,8 +16,8 @@
 #   icon: 'fab fa-linkedin'
 #   url:  ''
 #
-# - type: twitter
-#   icon: "fab fa-twitter"
+- type: twitter
+  icon: "fab fa-twitter"
 #
 # - type: mastodon
 #   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
