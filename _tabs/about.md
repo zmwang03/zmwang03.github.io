@@ -3,19 +3,12 @@
 icon: fas fa-info-circle
 order: 4
 ---
+Hi, I'm Zhimeng Wang, a researcher working on language model architectures.
 
-Hi, I'm ZM Wang. This is my personal blog, where I write about engineering practice, AI-related learning, tools, and ideas worth keeping over time.
+I mainly write about efficient training and inference.
 
-This site is built with Chirpy and customized with reference to the overall structure of [tremo1's blog](https://github.com/tremo1/tremo1.github.io). It is now a solid starting point for publishing and writing continuously.
+This blog is largely inspired by my research role model, Jianlin Su, and his blog, [kexue.fm](https://kexue.fm/).
 
-I plan to write mainly about:
-
-- Software engineering and developer productivity
-- AI / LLM systems and related tools
-- Learning notes, troubleshooting, and project retrospectives
-
-If you are interested in these topics as well, feel free to reach out via [GitHub](https://github.com/zmwang03) or email.
+If you're interested in these topics as well, feel free to reach out by email.
 
 ![avatar](/assets/img/avatar.png){: w="220" h="220" }
-
-This page can be expanded later with your own background, work experience, projects, interests, or contact details.
